@@ -52,9 +52,9 @@
                   </Group>
                   <Group type="102" attributes="0">
                       <EmptySpace min="-2" pref="12" max="-2" attributes="0"/>
-                      <Component id="calcular" min="-2" max="-2" attributes="0"/>
-                      <EmptySpace min="-2" pref="66" max="-2" attributes="0"/>
-                      <Component id="limpiar" min="-2" max="-2" attributes="0"/>
+                      <Component id="calcular" min="-2" pref="85" max="-2" attributes="0"/>
+                      <EmptySpace min="-2" pref="53" max="-2" attributes="0"/>
+                      <Component id="limpiar" min="-2" pref="80" max="-2" attributes="0"/>
                   </Group>
                   <Component id="desviacion" alignment="0" max="32767" attributes="0"/>
                   <Component id="promedio" alignment="0" pref="264" max="32767" attributes="0"/>
